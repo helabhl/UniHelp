@@ -9,7 +9,7 @@
 [![Groq](https://img.shields.io/badge/LLM-Groq%20%7C%20LLaMA3-F55036?style=flat)](https://console.groq.com)
 
 
-**Assistant IA basé sur RAG qui répond aux questions administratives des étudiants et génère des emails officiels — fondé exclusivement sur les documents de l'IIT/ENS Tunis.**
+**Assistant IA basé sur RAG qui répond aux questions administratives des étudiants et génère des emails officiels — fondé exclusivement sur les documents de l'ENS Tunis.**
 
 [Démo](#démo) · [Installation](#installation) · [Architecture](#architecture) · [Dataset](#dataset)
 
