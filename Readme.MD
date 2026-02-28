@@ -73,7 +73,7 @@ uniassist/
 ### 1. Cloner le repo
 
 ```bash
-git clone https://github.com/TON_USERNAME/UniHelp.git
+git clone https://github.com/helabhl/UniHelp.git
 ```
 
 ### 2. Configuration des variables d'environnement
