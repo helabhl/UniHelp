@@ -1,0 +1,59 @@
+# ═══════════════════════════════════════════════
+#  .gitignore — UniAssist ENS 
+#  React/Vite + FastAPI + MongoDB
+# ═══════════════════════════════════════════════
+
+# ── Variables d'environnement ──────────────────
+.env
+.env.*
+!.env.example
+
+# ── Python / FastAPI ───────────────────────────
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+htmlcov/
+.coverage
+venv/
+.venv/
+env/
+
+# ── Node / React / Vite ────────────────────────
+node_modules/
+dist/
+.vite/
+*.local
+.eslintcache
+
+# ── MongoDB ────────────────────────────────────
+data/db/
+*.bson
+*.mongorc.js
+mongod.lock
+
+# ── Uploads & documents RAG ───────────────────
+backend/uploads/
+backend/data/
+*.pdf
+!docs/*.pdf
+
+# ── OS ────────────────────────────────────────
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ── IDE ───────────────────────────────────────
+.vscode/
+.idea/
+*.swp
+*.swo
